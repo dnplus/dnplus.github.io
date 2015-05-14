@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Daily Need +]]></title>
-  <link href="http://blog.dnplus.net/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 測試 | Daily Need +]]></title>
+  <link href="http://blog.dnplus.net/blog/categories/ce-shi/atom.xml" rel="self"/>
   <link href="http://blog.dnplus.net/"/>
   <updated>2015-05-14T14:45:14+08:00</updated>
   <id>http://blog.dnplus.net/</id>
@@ -22,12 +22,10 @@
 
 <p><em>Hello world!</em></p>
 
-<p>code:</p>
-
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='tcl'><span class='line'><span class="nb">puts</span> <span class="s2">&quot;Hello World!&quot;</span>
-</span></code></pre></td></tr></table></div></figure>
-
+<p>code:
+<code>tcl
+puts "Hello World!"
+</code></p>
 ]]></content>
   </entry>
   
