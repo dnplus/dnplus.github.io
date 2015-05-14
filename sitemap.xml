@@ -14,6 +14,9 @@
     <loc>http://blog.dnplus.net/blog/categories/</loc>
   </url>
   <url>
-    <loc>http://blog.dnplus.net/blog/categories/octopress-jiao-xue/</loc>
+    <loc>http://blog.dnplus.net/blog/categories/octopress/</loc>
+  </url>
+  <url>
+    <loc>http://blog.dnplus.net/blog/categories/jiao-xue/</loc>
   </url>
 </urlset>
