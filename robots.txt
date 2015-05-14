@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://dnplus.github.io/sitemap.xml 
+Sitemap: http://blog.dnplus.net/sitemap.xml 
