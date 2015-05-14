@@ -4,7 +4,7 @@
   <title><![CDATA[Daily Need +]]></title>
   <link href="http://blog.dnplus.net/atom.xml" rel="self"/>
   <link href="http://blog.dnplus.net/"/>
-  <updated>2015-05-14T13:32:33+08:00</updated>
+  <updated>2015-05-14T14:18:51+08:00</updated>
   <id>http://blog.dnplus.net/</id>
   <author>
     <name><![CDATA[dnplus]]></name>
@@ -12,5 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[測試]]></title>
+    <link href="http://blog.dnplus.net/blog/2015/05/14/ce-shi/"/>
+    <updated>2015-05-14T14:17:15+08:00</updated>
+    <id>http://blog.dnplus.net/blog/2015/05/14/ce-shi</id>
+    <content type="html"><![CDATA[<h1>歡迎世界!</h1>
+
+<h2>Hello world</h2>
+]]></content>
+  </entry>
   
 </feed>
