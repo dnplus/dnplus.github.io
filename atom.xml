@@ -4,7 +4,7 @@
   <title><![CDATA[Daily Need +]]></title>
   <link href="http://dnplus.github.io/atom.xml" rel="self"/>
   <link href="http://dnplus.github.io/"/>
-  <updated>2015-05-14T12:02:14+08:00</updated>
+  <updated>2015-05-14T12:12:50+08:00</updated>
   <id>http://dnplus.github.io/</id>
   <author>
     <name><![CDATA[dnplus]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://dnplus.github.io/blog/2015/05/14/first-post/"/>
+    <updated>2015-05-14T12:10:47+08:00</updated>
+    <id>http://dnplus.github.io/blog/2015/05/14/first-post</id>
+    <content type="html"><![CDATA[<h1>Hello World!</h1>
+]]></content>
+  </entry>
   
 </feed>
