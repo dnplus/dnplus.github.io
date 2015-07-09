@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: octopress | Daily Need +]]></title>
+  <link href="http://blog.dnplus.net/blog/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://blog.dnplus.net/"/>
+  <updated>2015-05-14T22:12:28+08:00</updated>
+  <id>http://blog.dnplus.net/</id>
+  <author>
+    <name><![CDATA[dnplus]]></name>
+    <email><![CDATA[dnplus@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[第一次 Octopress 就上手]]></title>
+    <link href="http://blog.dnplus.net/blog/2015/05/14/ce-shi/"/>
+    <updated>2015-05-14T14:17:15+08:00</updated>
+    <id>http://blog.dnplus.net/blog/2015/05/14/ce-shi</id>
+    <content type="html"><![CDATA[<h2>安裝 Octopress</h2>
+
+<p><em>施工中&hellip;</em></p>
+
+<p>code:
+<code>tcl
+error "dnplus is too lazy to do that"
+</code></p>
+]]></content>
+  </entry>
+  
+</feed>
