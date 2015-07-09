@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "測試文本"
+title: "第一次 Octopress 就上手"
 date: 2015-05-14 14:17:15 +0800
 comments: true
-categories: 測試
+categories: octopress 教學
 ---
-##歡迎世界!
-*Hello world!*
+## 安裝 Octopress
+*施工中...*
 
 code:
 ```tcl
-puts "Hello World!"
+error "dnplus is too lazy to do that"
 ```
